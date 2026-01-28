@@ -1,8 +1,8 @@
 ---
-title: "11.Scattering of Ion Cyclotron Range of Frequency waves by filaments and ELMs"
+title: "10.Scattering of Ion Cyclotron Range of Frequency waves by filaments and ELMs"
 collection: publications
 category: manuscripts
-permalink: /publication/number-11
+permalink: /publication/number-10
 excerpt: 'Keywords: wave scattering, radio-frequency wave, filaments, edge localized modes'
 date: 2020-07-21
 venue: 'Nuclear Fusion'
