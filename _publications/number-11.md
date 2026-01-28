@@ -1,8 +1,8 @@
 ---
-title: "12.Redirection of radio-frequency power flow by filaments"
+title: "11.Redirection of radio-frequency power flow by filaments"
 collection: publications
 category: manuscripts
-permalink: /publication/number-12
+permalink: /publication/number-11
 excerpt: 'Keywords: radio-frequency wave, filament, ICRH, scrape-off layer'
 date: 2020-02-05
 venue: 'Nuclear Fusion'
