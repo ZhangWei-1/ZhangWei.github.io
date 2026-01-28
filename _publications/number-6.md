@@ -1,8 +1,8 @@
 ---
-title: "5.Influence of ICRF-NBI synergy on fast ion distribution and plasma performance in second harmonic heating experiments with deuterium NBI at EAST"
+title: "6.Influence of ICRF-NBI synergy on fast ion distribution and plasma performance in second harmonic heating experiments with deuterium NBI at EAST"
 collection: publications
 category: manuscripts
-permalink: /publication/number-5
+permalink: /publication/number-6
 excerpt: 'Keywords: ICRF-NBI synergy, high harmonic heating, fast ion distribution, plasma performance'
 date: 2023-04-03
 venue: 'Nuclear Fusion'
