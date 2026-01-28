@@ -1,8 +1,8 @@
 ---
-title: "7.Conceptual design and optimization of an ITER-type ICRF antenna on CFETR"
+title: "5.Conceptual design and optimization of an ITER-type ICRF antenna on CFETR"
 collection: publications
 category: manuscripts
-permalink: /publication/number-7
+permalink: /publication/number-5
 excerpt: 'Keywords: ICRF antenna, CFETR, ICRF heating, gas puffing'
 date: 2023-05-26
 venue: 'Nuclear Fusion'
