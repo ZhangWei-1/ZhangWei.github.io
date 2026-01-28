@@ -2,7 +2,7 @@
 title: "12.Blob distortion by radio-frequency induced sheared flow"
 collection: publications
 category: manuscripts
-permalink: /publication/number-5=12
+permalink: /publication/number-12
 excerpt: 'Keywords: radio-frequency, blob, sheared flow, scrape-off layer'
 date: 2019-06-05
 venue: 'Nuclear Fusion'
