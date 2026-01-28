@@ -24,18 +24,19 @@ Researcher Zhang Wei has received numerous international academic honors, includ
 研究方向
 ======
 - 等离子体物理
-- 等离子体物理
+- 射频波加热理论与实验研究
+- 射频工程
 
 招生专业
 ======
 - 博士：<br>
 1.等离子体物理<br>
 2.核能科学与工程<br>
-
+3.电子信息<br>
 - 硕士：<br>
 1.等离子体物理<br>
 2.核能科学与工程<br>
-
+3.电子信息<br>
 
 
 For more info
