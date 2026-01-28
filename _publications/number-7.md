@@ -1,8 +1,8 @@
 ---
-title: "4.Parametric study of midplane gas puffing to maximize ICRF power coupling in ITER"
+title: "7.Parametric study of midplane gas puffing to maximize ICRF power coupling in ITER"
 collection: publications
 category: manuscripts
-permalink: /publication/number-4
+permalink: /publication/number-7
 excerpt: 'Keywords: ITER, ICRF coupling, local gas puffing, scrape-off layer, 3D simulations'
 date: 2023-02-03
 venue: 'Nuclear Fusion'
