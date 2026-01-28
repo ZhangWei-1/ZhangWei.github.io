@@ -1,8 +1,8 @@
 ---
-title: "6.Investigation of ICRF-NBI synergetic heating induced fast ion distribution and transport in EAST tokamak"
+title: "4.Investigation of ICRF-NBI synergetic heating induced fast ion distribution and transport in EAST tokamak"
 collection: publications"
 category: manuscripts
-permalink: /publication/number-6
+permalink: /publication/number-4
 excerpt: 'Keywords: 离子回旋共振加热, 中性束注入, 协同加热, 高能粒子分布'
 date: 2023-05-31
 venue: 'Acta Physica Sinica'
